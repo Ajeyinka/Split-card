@@ -1,0 +1,13 @@
+:root {
+  --bg: #0f0f0f;
+  --fg: #fff;
+  --card-1: #b2b2b2;
+  --card-2: #ce2017;
+  --card-3: #2f2f2f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
